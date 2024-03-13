@@ -1,4 +1,6 @@
 This is commit one.
 This is commit two.
 
-I am adding stuff to this file to test branches and stuff. 
+ This is branch one
+
+ Now I'm adding some stuff for branch two
